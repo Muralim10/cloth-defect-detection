@@ -1,5 +1,5 @@
---upgrade pip
-tensorflow==2.12.0
+pip --upgrade
+tensorflow==2.18.0
 streamlit==1.44.0
 rich==14.0.0
 markdown-it-py==3.0.0
